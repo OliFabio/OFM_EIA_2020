@@ -1,7 +1,14 @@
 body{
+    background-image: url(cali.jpg);
     font-family: Bahnschrift Light;
     text-align: center;
 }
+
+.h1{
+    color: #45f3ea;
+
+}
+
 
 .button{
     color: white;
