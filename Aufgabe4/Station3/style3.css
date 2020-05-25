@@ -1,5 +1,5 @@
 body{
-    font-family: dear;
+    font-family: Bahnschrift Light;
         text-align: center;
         background-image: url(wrapperbg.png), url(bg.png);
         background-repeat: no-repeat, repeat;
@@ -7,11 +7,6 @@ body{
         background-position: center, center;
     }
     
-    font-face {
-        font-family: 'Times New Roman', Times, serif;
-
-      }
-
     .container{
         display: flex;
         justify-content: center;
@@ -26,11 +21,11 @@ body{
     #headline{
         display: inline-block;
         position: absolute;
-        font-size: 20px;
+        font-size: 15px;
         font-weight: bolder;
         text-align: left;
         margin-top: 160px;
-        margin-left: 200px;
+        margin-left: 215px;
         transform: translate(-50%, -50%);
         color: white;
     }
@@ -38,11 +33,10 @@ body{
     #text{
         display: inline-block;
         position: absolute;
-        font-size: 25px;
+        font-size: 15px;
         font-weight: normal;
         text-align: left;
-        margin-top: 330px;
-        margin-left: 225px;
+        margin-top: 280px;
+        margin-left: 185px;
         transform: translate(-50%, -50%);
         color: white;
-    }
