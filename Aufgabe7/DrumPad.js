@@ -25,7 +25,6 @@ window.addEventListener("load", function () {
     document.querySelector("#um").addEventListener("click", function () { playSample(7); });
     document.querySelector("#ur").addEventListener("click", function () { playSample(8); });
 });
-// Angelehnt an Emre Aylan - thanks boy 
 function drummachine() {
     setInterval(function () {
         playSample(5);
@@ -35,5 +34,6 @@ function drummachine() {
 }
 window.addEventListener("load", function () {
     document.querySelector("#play").addEventListener("click", drummachine);
+    // Idee der Integration des Flow Charts angelehnt an Emre Aylan 
 });
 //# sourceMappingURL=DrumPad.js.map
