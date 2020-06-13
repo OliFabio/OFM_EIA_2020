@@ -61,7 +61,7 @@ function europeON() {
     document.querySelector("#titleRegion").innerHTML = "Europa";
     document.querySelector(".chart").setAttribute("style", "height:" + eu18zuwelt + "px");
     document.querySelector("#ah").innerHTML = eu18 + " kg CO2";
-    document.querySelector("#ap").innerHTML = "Die Emission in 2018 von Europa";
+    document.querySelector("#ap").innerHTML = "Die Emission von Europa im Jahre 2018";
     document.querySelector("#bh").innerHTML = eu18zuwelt + " %";
     document.querySelector("#bp").innerHTML = "Relativ zur Gesamtemission der Welt verursacht Europa";
     document.querySelector("#ch").innerHTML = eu0818f + " %";
@@ -77,7 +77,7 @@ function northamericaON() {
     document.querySelector("#titleRegion").innerHTML = "Nordamerika";
     document.querySelector(".chart").setAttribute("style", "height:" + na18zuwelt + "px");
     document.querySelector("#ah").innerHTML = na18 + " kg CO2";
-    document.querySelector("#ap").innerHTML = "Die Emission in 2018 von Nordamerika";
+    document.querySelector("#ap").innerHTML = "Die Emission von Nordamerika im Jahre 2018";
     document.querySelector("#bh").innerHTML = na18zuwelt + " %";
     document.querySelector("#bp").innerHTML = "Relativ zur Gesamtemission der Welt verursacht Nordamerika";
     document.querySelector("#ch").innerHTML = na0818f + " %";
@@ -93,7 +93,7 @@ function southamericaON() {
     document.querySelector("#titleRegion").innerHTML = "Südamerika";
     document.querySelector(".chart").setAttribute("style", "height:" + sa18zuwelt + "px");
     document.querySelector("#ah").innerHTML = sa18 + " kg CO2";
-    document.querySelector("#ap").innerHTML = "Die Emission in 2018 von Südamerika";
+    document.querySelector("#ap").innerHTML = "Die Emission von Südamerika im Jahre 2018";
     document.querySelector("#bh").innerHTML = sa18zuwelt + " %";
     document.querySelector("#bp").innerHTML = "Relativ zur Gesamtemission der Welt verursacht Südamerika";
     document.querySelector("#ch").innerHTML = sa0818f + " %";
@@ -109,7 +109,7 @@ function africaON() {
     document.querySelector("#titleRegion").innerHTML = "Afrika";
     document.querySelector(".chart").setAttribute("style", "height:" + af18zuwelt + "px");
     document.querySelector("#ah").innerHTML = af18 + " kg CO2";
-    document.querySelector("#ap").innerHTML = "Die Emission in 2018 von Afrika";
+    document.querySelector("#ap").innerHTML = "Die Emission von Afrika im Jahre 2018";
     document.querySelector("#bh").innerHTML = af18zuwelt + " %";
     document.querySelector("#bp").innerHTML = "Relativ zur Gesamtemission der Welt verursacht Afrika";
     document.querySelector("#ch").innerHTML = af0818f + " %";
@@ -125,7 +125,7 @@ function asiaON() {
     document.querySelector("#titleRegion").innerHTML = "Asien";
     document.querySelector(".chart").setAttribute("style", "height:" + as18zuwelt + "px");
     document.querySelector("#ah").innerHTML = as18 + " kg CO2";
-    document.querySelector("#ap").innerHTML = "Die Emission in 2018 von Asien";
+    document.querySelector("#ap").innerHTML = "Die Emission von Asien im Jahre 2018";
     document.querySelector("#bh").innerHTML = as18zuwelt + " %";
     document.querySelector("#bp").innerHTML = "Relativ zur Gesamtemission der Welt verursacht Asien";
     document.querySelector("#ch").innerHTML = as0818f + " %";
@@ -141,7 +141,7 @@ function australiaON() {
     document.querySelector("#titleRegion").innerHTML = "Australien";
     document.querySelector(".chart").setAttribute("style", "height:" + au18zuwelt + "px");
     document.querySelector("#ah").innerHTML = au18 + " kg CO2";
-    document.querySelector("#ap").innerHTML = "Die Emission in 2018 von Australien";
+    document.querySelector("#ap").innerHTML = "Die Emission von Australien im Jahre 2018";
     document.querySelector("#bh").innerHTML = au18zuwelt + " %";
     document.querySelector("#bp").innerHTML = "Relativ zur Gesamtemission der Welt verursacht Australien";
     document.querySelector("#ch").innerHTML = au0818f + " %";
