@@ -1,0 +1,30 @@
+body{
+    background-image: url(https://raw.githubusercontent.com/OliFabio/OFM_EIA_2020/master/Aufgabe7/images/night.jpg);
+    backface-visibility: visible;
+    background-size: cover;
+    text-align: center;
+    max-width: 800px;
+    margin: auto;
+
+    font-family: 'Times New Roman', Times, serif
+
+}
+
+li{
+color: red;
+background-attachment: fixed;
+background-color: cornsilk;
+
+}
+
+
+h2{
+color: black;
+background-color: blanchedalmond;
+}
+
+h1{
+    color: yellow;
+    font-size: 33pt;
+    font-style: italic;
+}

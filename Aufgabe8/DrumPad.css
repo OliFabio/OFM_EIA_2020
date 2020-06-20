@@ -1,0 +1,104 @@
+body{
+    background-image: url(https://raw.githubusercontent.com/OliFabio/OFM_EIA_2020/master/Aufgabe7/images/night.jpg);
+    backface-visibility: visible;
+    background-size: cover;
+    color: rgb(238, 255, 0);
+    text-align: center;
+    max-width: 800px;
+    margin: auto;
+
+    font-family: 'Times New Roman', Times, serif
+
+}
+#button1, #button2, #button3{
+    background-color: rgb(255, 0, 0);
+    opacity: 0.8;
+    display: inline-block;
+    cursor: pointer;
+    border-style: none;
+    height: 150px;
+    width: 150px;
+    border-radius: 15px;
+    margin: 7px;
+
+}
+
+#button4, #button5, #button6, #button7{
+    background-color: rgb(0, 255, 106);
+    opacity: 0.8;
+    display: inline-block;
+    cursor: pointer;
+    border-style: none;
+    height: 150px;
+    width: 150px;
+    border-radius: 15px;
+    margin: 7px;
+
+}
+
+#button8, #button9{
+    background-color: rgb(255, 0, 255);
+    opacity: 0.8;
+    display: inline-block;
+    cursor: pointer;
+    border-style: none;
+    height: 150px;
+    width: 150px;
+    border-radius: 15px;
+    margin: 7px;
+
+}
+
+button:hover{
+    opacity: 70%;
+}
+
+#playbutton{
+    margin: 3px 3px 3px 3px;
+    cursor: pointer;
+}
+
+#playbutton:hover{
+    opacity: 100%;
+    transform: scale(1.1);
+}
+
+#play{
+    text-align: center;
+    color: #fff; 
+    font-size: 70px; 
+    margin: 5px;
+    cursor: pointer;
+}
+
+#play:hover{
+    opacity: 100%;
+    transform: scale(1.1);
+}
+
+#record{
+    text-align: center;
+    color: #fff; 
+    font-size: 70px; 
+    margin: 5px;
+    cursor: pointer;
+}
+
+#record:hover{
+    opacity: 100%;
+    transform: scale(1.1);
+}
+
+#delete{
+    text-align: center;
+    color: #fff; 
+    font-size: 70px; 
+    margin: 5px;
+    cursor: pointer;
+}
+
+#delete:hover{
+    opacity: 100%;
+    transform: scale(1.1);
+}
+
